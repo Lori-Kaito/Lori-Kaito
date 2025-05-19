@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rahmon Khayle U. Del Mundo you can call me RK.</h1>
-<h3 align="center">Exploring the world of code as a Computer Science student at De La Salle University, with a passion for teamwork, debugging, and data insights.</h3>
+<h3 align="center">Exploring the world of code as a Computer Science student at De La Salle University, with a passion for teamwork, troubleshooting, and data insights.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lori-kaito" alt="lori-kaito" /></a> </p>
 
