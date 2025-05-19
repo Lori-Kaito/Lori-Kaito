@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi, I'm `**Rahmon Khayle U. Del Mundo**` you can call me `**RK**`.<br>
+### Hi, I'm `Rahmon Khayle U. Del Mundo` you can call me `RK`.<br>
 ### Exploring the world of code as a Computer Science student at De La Salle University, with a passion for `teamwork`, `troubleshooting`, and `data insights`.
 
 
