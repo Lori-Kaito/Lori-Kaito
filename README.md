@@ -2,6 +2,8 @@
 ### Hi, I'm Rahmon Khayle U. Del Mundo you can call me RK.<br>
 ### Exploring the world of code as a Computer Science student at De La Salle University, with a passion for teamwork, troubleshooting, and data insights.
 
+![](https://komarev.com/ghpvc/?Lori-Kaito&color=green)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lori_kaito) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Lori.Kaito) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_r.k.d.m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rk-del-mundo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:delmundo.rk@gmail.com) 
